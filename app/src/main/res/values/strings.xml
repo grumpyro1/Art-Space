@@ -1,8 +1,9 @@
 <resources>
     <string name="app_name">Art Space</string>
-    <string name="smiling_through_the_pain">Smiling Through the pain</string>
-    <string name="yasmin_the_great">Yasmin the great</string>
+    <string name="Monalisa">Monalisa</string>
+    <string name="sunflower_vase">Sunflower Vase</string>
     <string name="the_stary_night">The stary night</string>
-    <string name="girl_with_a_pearl_earing">Girl with a Pearl Earing</string>
-    <string name="dionela">Dionela</string>
+    <string name="changeing_trees">Changing Trees</string>
+    <string name="sunflower">Sun Flower</string>
+    <string name="vincent_van_gogh">Vincent Van Gogh</string>
 </resources>
